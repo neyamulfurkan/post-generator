@@ -5,4 +5,4 @@ passlib[bcrypt]
 google-generativeai
 requests
 PyJWT
-
+python-multipart
