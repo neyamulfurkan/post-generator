@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 fastapi
 uvicorn
 python-jose
@@ -6,3 +7,13 @@ google-generativeai
 requests
 python-multipart
 PyJWT
+=======
+fastapi
+uvicorn
+python-jose
+passlib[bcrypt]
+google-generativeai
+requests
+PyJWT
+python-multipart
+>>>>>>> 9967c0d152c1edbf1041c2e142b94e25a564c62d
