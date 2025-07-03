@@ -6,3 +6,4 @@ google-generativeai
 requests
 python-multipart
 PyJWT
+openai
